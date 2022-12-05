@@ -1,0 +1,27 @@
+body{
+background-color: #a7dbe3;
+  color: #2f4c5c;
+  font-size: 22px;
+  margin: 0px;
+}
+
+h1{
+font-size: 50px;
+  color: #3747b3;
+  font-family: Rockwell,Courier Bold,Courier,Georgia,Times,'Times New Roman',serif;
+  margin-bottom: 0px;
+}
+h2{
+  color: black;
+}
+.box1{
+  color: black;
+  background: red;
+  width: 500px;
+}
+.blue-box{
+  color: white;
+  background: blue;
+   width: 500px;
+   float: right;
+}
